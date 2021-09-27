@@ -1,0 +1,1 @@
+This is a practice project that consisted of creating an API for registering, editing and deleting employee data.
